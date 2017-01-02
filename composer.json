@@ -1,0 +1,16 @@
+{
+    "name": "mco/mcq",
+    "description": "Multiple choices test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael COULLERET",
+            "email": "michael@coulleret.pro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/http-kernel": "^3.2"
+    }
+}
