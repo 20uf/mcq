@@ -15,6 +15,7 @@
         "symfony/dependency-injection": "^3.2",
         "symfony/config": "^3.2",
         "symfony/proxy-manager-bridge": "^3.2",
-        "symfony/class-loader": "^3.2"
+        "symfony/class-loader": "^3.2",
+        "symfony/routing": "^3.2"
     }
 }
