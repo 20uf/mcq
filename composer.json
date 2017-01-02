@@ -11,6 +11,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "symfony/http-kernel": "^3.2"
+        "symfony/http-kernel": "^3.2",
+        "symfony/dependency-injection": "^3.2",
+        "symfony/config": "^3.2",
+        "symfony/proxy-manager-bridge": "^3.2",
+        "symfony/class-loader": "^3.2"
     }
 }
